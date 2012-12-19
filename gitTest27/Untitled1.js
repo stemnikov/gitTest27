@@ -14,3 +14,5 @@ outdrink
 underdrunk
 
 bonkers
+sss
+slug
